@@ -10,4 +10,4 @@ https://docs.google.com/forms/d/e/1FAIpQLSfZObwaPmOcZU-9mE5oJXg7K7vU7cUr6A2FP39R
 ## Resultados de la encuesta
 [Polarizacion.xlsx](https://github.com/user-attachments/files/26759896/Polarizacion.xlsx)
 
-La encuesta anterior se realizó a personas de distintas edades y lugares de origen, por lo que son datos recolados unicamente con fines académicos y prácticos. Asi que, no pueden ser tomados como una muestra poblacional significativa.
+La encuesta anterior se realizó a personas de distintas edades y lugares de origen, por lo que son datos recolados únicamente con fines académicos y prácticos. Es decir que, no pueden ser tomados como una muestra poblacional significativa.
