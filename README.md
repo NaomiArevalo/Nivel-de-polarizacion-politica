@@ -68,7 +68,7 @@ ggcorrplot(corr_polarizacion, type = "lower", lab = TRUE, show.legend = TRUE) +
 
 # ----------------------------------------------------------
 ## Gráfico de dispersión: 
-# ----------------------------------------------------------}
+# ----------------------------------------------------------
 
 ### Relación entre Nivel de polarización y Tiempo en redes sociales
 
